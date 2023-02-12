@@ -8,4 +8,5 @@
 8.The following libraries installed in the Arduino Integrated Development Environment (IDE):
     -->ESP8266WiFi.h
     -->DHT.h
+    -->NodeMCU board
 9.A computer with the Arduino IDE installed for programming and uploading the code to the microcontroller.
