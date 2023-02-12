@@ -1,0 +1,11 @@
+1.An ESP8266 Wi-Fi module or a similar Wi-Fi enabled microcontroller
+2.A DHT11 temperature and humidity sensor
+3.An Soil Moisture sensor
+4.A relay module
+5.A power source (e.g. a battery or a DC power supply)
+6.A USB to Serial converter
+7.An account on ThingSpeak (for uploading the data to the cloud)
+8.The following libraries installed in the Arduino Integrated Development Environment (IDE):
+    -->ESP8266WiFi.h
+    -->DHT.h
+9.A computer with the Arduino IDE installed for programming and uploading the code to the microcontroller.
